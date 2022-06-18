@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vezdekod</string>
+    <string name="food_old_price"><strike>800 р</strike></string>
+</resources>
